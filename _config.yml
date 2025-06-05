@@ -3,11 +3,11 @@ itroremote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-github:
-  zip_url: https://sladescientific.com/download.zip
-  repository_url: https://sladescientific.com/
-  tar_url: https://sladescientific.com/download.tar
-  owner_url: https://sladescientific.com/
+#github:
+  #zip_url: https://sladescientific.com/download.zip
+  #repository_url: https://sladescientific.com/
+  #tar_url: https://sladescientific.com/download.tar
+  #owner_url: https://sladescientific.com/
 
 title: Slade Scientific Labs
 tagline: Apps, Widgets, and Digital Toolkits
